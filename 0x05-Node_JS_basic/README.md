@@ -45,4 +45,4 @@ To get started with this project, do the following:
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 ## License <a name="license"></a>
-ALX
+ALX 2024 - [alxafrica](https://www.alxafrica.com)
